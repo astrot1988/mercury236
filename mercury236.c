@@ -20,7 +20,7 @@
 #define BSZ			255
 
 // **** Debug output globals
-int debugPrint;
+extern int debugPrint;
 
 // **** Enums
 typedef enum
